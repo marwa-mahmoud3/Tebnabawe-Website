@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\works\21 Tebnabawe Website\publish\tebnabawe.web</_PublishTargetUrl>
+    <History>True|2022-01-17T20:49:06.8712983Z;True|2022-01-17T20:32:11.2941670+02:00;True|2022-01-17T20:25:33.5959155+02:00;True|2022-01-17T20:24:36.6811811+02:00;True|2022-01-17T20:11:24.0579658+02:00;True|2022-01-17T19:44:07.2177487+02:00;True|2022-01-16T18:01:09.5014068+02:00;True|2022-01-16T17:54:55.0789990+02:00;True|2022-01-16T09:28:37.8709542+02:00;True|2022-01-16T01:00:00.9505297+02:00;True|2022-01-15T20:40:25.8553267+02:00;True|2022-01-15T20:05:55.8224089+02:00;</History>
+  </PropertyGroup>
+</Project>

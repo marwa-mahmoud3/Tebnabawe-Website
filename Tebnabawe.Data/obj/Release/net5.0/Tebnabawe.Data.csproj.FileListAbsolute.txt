@@ -1,0 +1,15 @@
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\bin\Release\net5.0\Tebnabawe.Data.deps.json
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\bin\Release\net5.0\Tebnabawe.Data.runtimeconfig.json
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\bin\Release\net5.0\Tebnabawe.Data.runtimeconfig.dev.json
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\bin\Release\net5.0\Tebnabawe.Data.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\bin\Release\net5.0\ref\Tebnabawe.Data.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\bin\Release\net5.0\Tebnabawe.Data.pdb
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\obj\Release\net5.0\Tebnabawe.Data.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\obj\Release\net5.0\Tebnabawe.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\obj\Release\net5.0\Tebnabawe.Data.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\obj\Release\net5.0\Tebnabawe.Data.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\obj\Release\net5.0\Tebnabawe.Data.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\obj\Release\net5.0\Tebnabawe.Data.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\obj\Release\net5.0\ref\Tebnabawe.Data.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\obj\Release\net5.0\Tebnabawe.Data.pdb
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Data\obj\Release\net5.0\Tebnabawe.Data.genruntimeconfig.cache

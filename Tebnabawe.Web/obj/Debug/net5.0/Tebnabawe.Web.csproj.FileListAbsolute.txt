@@ -1,0 +1,388 @@
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.AssemblyReference.cache
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.GeneratedMSBuildEditorConfig.editorconfig
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.AssemblyInfoInputs.cache
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.AssemblyInfo.cs
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.CoreCompileInputs.cache
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.MvcApplicationPartsAssemblyInfo.cs
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.MvcApplicationPartsAssemblyInfo.cache
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\appsettings.Development.json
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\appsettings.json
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.exe
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.deps.json
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.runtimeconfig.json
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.runtimeconfig.dev.json
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\ref\Tebnabawe.Web.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.pdb
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Data.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.EntityFramework.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.EntityFramework.pdb
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Data.pdb
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\staticwebassets\Tebnabawe.Web.StaticWebAssets.Manifest.cache
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\staticwebassets\Tebnabawe.Web.StaticWebAssets.xml
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\scopedcss\bundle\Tebnabawe.Web.styles.css
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.RazorTargetAssemblyInfo.cache
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.CopyComplete
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\ref\Tebnabawe.Web.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.pdb
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.genruntimeconfig.cache
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\AutoMapper.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Bases.dll
+G:\MARWA\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Bases.pdb
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.exe
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.deps.json
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.runtimeconfig.json
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.runtimeconfig.dev.json
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\ref\Tebnabawe.Web.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.pdb
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Data.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Data.pdb
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\staticwebassets\Tebnabawe.Web.StaticWebAssets.Manifest.cache
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\staticwebassets\Tebnabawe.Web.StaticWebAssets.xml
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\scopedcss\bundle\Tebnabawe.Web.styles.css
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.RazorTargetAssemblyInfo.cache
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\ref\Tebnabawe.Web.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.pdb
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.genruntimeconfig.cache
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.CopyComplete
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\appsettings.Development.json
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\appsettings.json
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.exe
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.deps.json
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.runtimeconfig.json
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.runtimeconfig.dev.json
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\ref\Tebnabawe.Web.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.pdb
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\AutoMapper.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Humanizer.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Data.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Data.pdb
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.AssemblyReference.cache
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.GeneratedMSBuildEditorConfig.editorconfig
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.AssemblyInfoInputs.cache
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.AssemblyInfo.cs
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.CoreCompileInputs.cache
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.MvcApplicationPartsAssemblyInfo.cs
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.MvcApplicationPartsAssemblyInfo.cache
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\staticwebassets\Tebnabawe.Web.StaticWebAssets.Manifest.cache
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\staticwebassets\Tebnabawe.Web.StaticWebAssets.xml
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\scopedcss\bundle\Tebnabawe.Web.styles.css
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.RazorTargetAssemblyInfo.cache
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.CopyComplete
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\ref\Tebnabawe.Web.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.pdb
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.genruntimeconfig.cache
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Application.dll
+G:\TEBNABAWE\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Application.pdb
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.exe
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.deps.json
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.runtimeconfig.json
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.runtimeconfig.dev.json
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\ref\Tebnabawe.Web.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.pdb
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Application.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Data.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Application.pdb
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Data.pdb
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\staticwebassets\Tebnabawe.Web.StaticWebAssets.Manifest.cache
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\staticwebassets\Tebnabawe.Web.StaticWebAssets.xml
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\scopedcss\bundle\Tebnabawe.Web.styles.css
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.RazorTargetAssemblyInfo.cache
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.CopyComplete
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\ref\Tebnabawe.Web.dll
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.pdb
+C:\Users\ALL IN ONE\Desktop\m\f\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.genruntimeconfig.cache
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Application.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Application.pdb
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.exe
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.deps.json
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.runtimeconfig.json
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.runtimeconfig.dev.json
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\ref\Tebnabawe.Web.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Web.pdb
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Application.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Data.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Application.pdb
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Tebnabawe.Data.pdb
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\staticwebassets\Tebnabawe.Web.StaticWebAssets.Manifest.cache
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\staticwebassets\Tebnabawe.Web.StaticWebAssets.xml
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\scopedcss\bundle\Tebnabawe.Web.styles.css
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.RazorTargetAssemblyInfo.cache
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.CopyComplete
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\ref\Tebnabawe.Web.dll
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.pdb
+C:\Users\ALL IN ONE\Desktop\lst\b\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.genruntimeconfig.cache
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\web.config
+C:\Users\ALL IN ONE\Desktop\last-v\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\last-v\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\last-v\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\last-v\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last-v\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\last-v\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last-v\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALL IN ONE\Desktop\last-v\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.dll
+C:\Users\ALL IN ONE\Desktop\last-v\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\ref\Tebnabawe.Web.dll
+C:\Users\ALL IN ONE\Desktop\last-v\Tebnabawe\Tebnabawe\Tebnabawe.Web\obj\Debug\net5.0\Tebnabawe.Web.pdb
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\VisioForge.Core.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\VisioForge.Libs.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\VisioForge.MediaFramework.dll
+C:\Users\marwa\OneDrive\Documents\GitHub\Tebnabawe\Tebnabawe\Tebnabawe.Web\bin\Debug\net5.0\VisioForge.Types.dll
