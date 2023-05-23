@@ -1,5 +1,5 @@
 # Tebnabawe Website
-Technologies used : Asp .Net Core, Restful API, Angular. Sql
+Technologies used : Asp .Net Core API, Angular. Sql
 
 ![Screenshot (991)](https://github.com/marwa-mahmoud3/Tebnabawe-Website/assets/58340861/700605e3-c0be-4f33-aacd-e4769741fa8d)
 ![Screenshot (989)](https://github.com/marwa-mahmoud3/Tebnabawe-Website/assets/58340861/d66d5826-f84c-46e8-83c8-9b64e79f30e7)
